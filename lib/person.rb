@@ -5,4 +5,4 @@ class Person
     @name = name
   end 
 
-def name=(dogs_name)
+def name=(persons_name)
