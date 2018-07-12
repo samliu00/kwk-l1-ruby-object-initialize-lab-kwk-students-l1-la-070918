@@ -5,4 +5,5 @@ class Person
     @name = name
   end 
 
-def name=(name=)
+def name=(name = "Beyonce")
+  
