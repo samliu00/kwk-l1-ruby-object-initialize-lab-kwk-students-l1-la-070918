@@ -1,4 +1,9 @@
 # person.rb
 
 class Person
-  attr_accessor
+  attr_accessor :attribute 
+  
+  def initalize(name)
+    @name = name
+  end 
+end 
