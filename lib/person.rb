@@ -1,7 +1,7 @@
 # person.rb
 
 class Person
-  def initalize(name = "Beyonce")
+  def initialize(name = "Beyonce")
     @name = name
   end
 end
